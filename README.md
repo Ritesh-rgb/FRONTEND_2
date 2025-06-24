@@ -6,3 +6,5 @@ this is a 3d website prototype not responsive
 i am adding some videos and images of the website as a reference:)
 
 https://github.com/user-attachments/assets/055cea09-3604-4729-90a4-6f165b3d109d
+
+"C:\Users\Julee Keshri\Videos\Screen Recordings\Screen Recording 2025-06-24 154958.mp4"
